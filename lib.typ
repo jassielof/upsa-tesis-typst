@@ -29,6 +29,13 @@
   max-15-words(title: titulo)
   validar-registro(registro: registro)
 
+  set text(
+    size: 12pt,
+    font: "Arial",
+    lang: "es",
+    region: "bo",
+  )
+
   align(center)[
     #set text(
       size: 14pt,
